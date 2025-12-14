@@ -1,2 +1,2 @@
-# Curr-culo-Galileu-Campanati
+# Curriculo-Galileu-Campanati
 Web currículo
